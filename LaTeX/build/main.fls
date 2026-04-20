@@ -1,7 +1,7 @@
-PWD c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX
+PWD C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX
 INPUT C:\Users\uzidu\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\main.tex
-OUTPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.log
+INPUT c:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\main.tex
+OUTPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.log
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -90,10 +90,10 @@ INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uni
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.aux
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.aux
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.aux
-OUTPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.aux
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.aux
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.aux
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.aux
+OUTPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.aux
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -103,14 +103,14 @@ INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-OUTPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.pdf
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-OUTPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+OUTPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.pdf
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+OUTPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -127,11 +127,11 @@ INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tf
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.toc
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.toc
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.toc
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.toc
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.toc
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.toc
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.toc
+OUTPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.toc
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -493,9 +493,9 @@ INPUT .\Reflections\SpamCorrectExtraXP.png
 INPUT .\Reflections\SpamCorrectExtraXP.png
 INPUT .\Reflections\SpamCorrectExtraXP.png
 INPUT .\Reflections\SpamCorrectExtraXP.png
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.aux
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
-INPUT c:\Users\uzidu\Desktop\Folders\Uni\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.aux
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
+INPUT C:\Users\uzidu\Desktop\Folders\Uni\Year 3\repos\blended-learning-tool\LaTeX\build\main.out
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\uzidu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

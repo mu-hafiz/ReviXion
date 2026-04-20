@@ -4,12 +4,15 @@
 \contentsline {section}{\numberline {2.2}Students' Struggles}{6}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Social Anxiety}{6}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Commuter Students}{6}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Disabilities and Learning Difficulties}{6}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}Problems with Current Learning Platforms}{6}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Lack of Engagement}{7}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Lack of Community}{7}{subsection.2.3.2}%
 \contentsline {section}{\numberline {2.4}Proposed Solutions}{7}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Gamification}{7}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Social Features}{7}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Privacy Settings}{7}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Customisability}{7}{subsection.2.4.4}%
 \contentsline {chapter}{\numberline {3}Planning}{8}{chapter.3}%
 \contentsline {section}{\numberline {3.1}ReviXion}{8}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Technologies to be Used}{8}{section.3.2}%
